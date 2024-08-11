@@ -1,0 +1,11 @@
+release/activitylist.o
+release/adminpanel.o
+release/book.o
+release/bookmanager.o
+release/main.o
+release/userpanel.o
+release/welcome.o
+release/moc_activitylist.o
+release/moc_adminpanel.o
+release/moc_userpanel.o
+release/moc_welcome.o

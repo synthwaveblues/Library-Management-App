@@ -1,0 +1,11 @@
+debug/activitylist.o
+debug/adminpanel.o
+debug/book.o
+debug/bookmanager.o
+debug/main.o
+debug/userpanel.o
+debug/welcome.o
+debug/moc_activitylist.o
+debug/moc_adminpanel.o
+debug/moc_userpanel.o
+debug/moc_welcome.o
