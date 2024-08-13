@@ -2,11 +2,12 @@
 
 This Library Management Program is developed using C++ and the Qt framework. It provides a user-friendly GUI for managing library operations, including book management, user authentication, and more.
 Features
-<br />
+
     User Authentication: Secure login for both users and admins.
     Book Management: Add, search, filter, and remove books.
     User Roles: Different functionalities for users and admins.
     Persistent Storage: Data is saved between sessions using txt files. (Should be improve in future)
+
 <br />
 ![LibraryManagementApp_Fx63SBNYos](https://github.com/user-attachments/assets/e217de12-ad57-4d0d-b35f-971834ac7878)
 <br />The login screen allows users to log in as either a user or an admin. It includes fields for entering login credentials and options to create a new account if one does not exist.
